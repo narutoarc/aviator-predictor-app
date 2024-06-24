@@ -3,7 +3,8 @@
 
 # Aviator Predictor App
 
-![logo-aviator](https://nairobiwire.com/wp-content/uploads/2023/06/Aviator-game.jpg)
+![logo-aviator](https://github.com/narutoarc/aviator-predictor-app/assets/165421830/f3ecfd71-c874-4f4f-b390-8f93ec42e4a0)
+
 
 ## What is the Aviator Betting Game?
 The Aviator game is a popular online casino game released in 2019. It is reated by [Scribe Gaming](https://spribe.co/games/aviator) Its popularity can be seen across the world, with over 2,000 betting and casino companies adding Aviator to their games portfolio, and now over 10 million players.
