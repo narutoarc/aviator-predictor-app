@@ -1,4 +1,4 @@
-
+duqbwffwinwn
 <div align="center">
 
 # Aviator Predictor App
